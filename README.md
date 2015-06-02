@@ -8,3 +8,7 @@ It's different in a few ways:
 - The alphabet counts up in binary. This makes it a lot easier for me to learn.
 
 Check out the [csv](twiddler_cfg.csv) for more details.
+
+## Credit
+
+This layout was inspired by the layout that [Greg Priest-Dorman](https://plus.google.com/115133427183932749413) uses on his awesome custom keyboard.
